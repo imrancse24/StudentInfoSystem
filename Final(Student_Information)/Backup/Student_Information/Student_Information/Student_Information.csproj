@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D131138B-722B-4F63-84E6-D8BF4D9F334E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Student_Information</RootNamespace>
+    <AssemblyName>Student_Information</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountSection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountSection.Designer.cs">
+      <DependentUpon>AccountSection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="conn.cs" />
+    <Compile Include="Course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course.Designer.cs">
+      <DependentUpon>Course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Department_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Department_Info.Designer.cs">
+      <DependentUpon>Department_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_StudentProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_StudentProfile.Designer.cs">
+      <DependentUpon>frm_StudentProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CourseRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CourseRegistration.Designer.cs">
+      <DependentUpon>CourseRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationPage.Designer.cs">
+      <DependentUpon>RegistrationPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewPage.Designer.cs">
+      <DependentUpon>ReportViewPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Student.Designer.cs">
+      <DependentUpon>Search_Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Semester_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Semester_Info.Designer.cs">
+      <DependentUpon>Semester_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Info.Designer.cs">
+      <DependentUpon>Student_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StudentProfileDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentProfileDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Student_InfoDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Student_InfoDataSet1.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccountSection.resx">
+      <DependentUpon>AccountSection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Course.resx">
+      <DependentUpon>Course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Department_Info.resx">
+      <DependentUpon>Department_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_StudentProfile.resx">
+      <DependentUpon>frm_StudentProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CourseRegistration.resx">
+      <DependentUpon>CourseRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationPage.resx">
+      <DependentUpon>RegistrationPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewPage.resx">
+      <DependentUpon>ReportViewPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptStudentInfo.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt_StudentProfile.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Student.resx">
+      <DependentUpon>Search_Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Semester_Info.resx">
+      <DependentUpon>Semester_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Info.resx">
+      <DependentUpon>Student_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="StudentProfileDataSet.xsc">
+      <DependentUpon>StudentProfileDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="StudentProfileDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>StudentProfileDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="StudentProfileDataSet.xss">
+      <DependentUpon>StudentProfileDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Student_InfoDataSet1.xsc">
+      <DependentUpon>Student_InfoDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Student_InfoDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Student_InfoDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Student_InfoDataSet1.xss">
+      <DependentUpon>Student_InfoDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\university.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pika.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-banner-4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Student-Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Student-Information-System-project-in-PHP.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

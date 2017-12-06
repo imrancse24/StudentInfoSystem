@@ -1,0 +1,158 @@
+E:\Class Sources\SOJIB Work\Student_Information\Student_Information\bin\Debug\Student_Information.exe.config
+E:\Class Sources\SOJIB Work\Student_Information\Student_Information\bin\Debug\Student_Information.exe
+E:\Class Sources\SOJIB Work\Student_Information\Student_Information\bin\Debug\Student_Information.pdb
+E:\Class Sources\SOJIB Work\Student_Information\Student_Information\obj\Debug\Student_Information.csprojResolveAssemblyReference.cache
+E:\Class Sources\SOJIB Work\Student_Information\Student_Information\obj\Debug\Student_Information.StudentInformation.resources
+E:\Class Sources\SOJIB Work\Student_Information\Student_Information\obj\Debug\Student_Information.Properties.Resources.resources
+E:\Class Sources\SOJIB Work\Student_Information\Student_Information\obj\Debug\Student_Information.csproj.GenerateResource.Cache
+E:\Class Sources\SOJIB Work\Student_Information\Student_Information\obj\Debug\Student_Information.exe
+E:\Class Sources\SOJIB Work\Student_Information\Student_Information\obj\Debug\Student_Information.pdb
+E:\Class Sources\SOJIB Work\Student_Information\Student_Information\obj\Debug\Student_Information.Search_Student.resources
+E:\LinkUp-Class\9-2-17(Student_Info)\Student_Information\Student_Information\bin\Debug\Student_Information.exe.config
+E:\LinkUp-Class\9-2-17(Student_Info)\Student_Information\Student_Information\obj\Debug\Student_Information.exe
+E:\LinkUp-Class\9-2-17(Student_Info)\Student_Information\Student_Information\obj\Debug\Student_Information.pdb
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\bin\Debug\Student_Information.exe.config
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\obj\Debug\Student_Information.exe
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\obj\Debug\Student_Information.pdb
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\bin\Debug\Student_Information.exe
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\bin\Debug\Student_Information.pdb
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\obj\Debug\Student_Information.csprojResolveAssemblyReference.cache
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\obj\Debug\Student_Information.Search_Student.resources
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\obj\Debug\Student_Information.StudentInformation.resources
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\obj\Debug\Student_Information.Properties.Resources.resources
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\obj\Debug\Student_Information.csproj.GenerateResource.Cache
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\obj\Debug\Student_Information.LogIn.resources
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\obj\Debug\Student_Information.HomePage.resources
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\obj\Debug\Student_Information.RegistrationPage.resources
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\obj\Debug\Student_Information.Department_Info.resources
+C:\Users\SOJIB\Documents\Visual Studio 2013\Projects\Student_Information\Student_Information\obj\Debug\Student_Information.Semester_Info.resources
+E:\Class Sources\Student_Information\Student_Information\bin\Debug\Student_Information.exe.config
+E:\Class Sources\Student_Information\Student_Information\obj\Debug\Student_Information.exe
+E:\Class Sources\Student_Information\Student_Information\obj\Debug\Student_Information.pdb
+E:\Class Sources\Student_Information\Student_Information\obj\Debug\Student_Information.csprojResolveAssemblyReference.cache
+E:\Class Sources\Student_Information\Student_Information\obj\Debug\Student_Information.Department_Info.resources
+E:\Class Sources\Student_Information\Student_Information\obj\Debug\Student_Information.HomePage.resources
+E:\Class Sources\Student_Information\Student_Information\obj\Debug\Student_Information.LogIn.resources
+E:\Class Sources\Student_Information\Student_Information\obj\Debug\Student_Information.RegistrationPage.resources
+E:\Class Sources\Student_Information\Student_Information\obj\Debug\Student_Information.Search_Student.resources
+E:\Class Sources\Student_Information\Student_Information\obj\Debug\Student_Information.Semester_Info.resources
+E:\Class Sources\Student_Information\Student_Information\obj\Debug\Student_Information.StudentInformation.resources
+E:\Class Sources\Student_Information\Student_Information\obj\Debug\Student_Information.Properties.Resources.resources
+E:\Class Sources\Student_Information\Student_Information\obj\Debug\Student_Information.csproj.GenerateResource.Cache
+E:\Class Sources\Student_Information\Student_Information\bin\Debug\Student_Information.exe
+E:\Class Sources\Student_Information\Student_Information\bin\Debug\Student_Information.pdb
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\bin\Debug\Student_Information.exe.config
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.exe
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.pdb
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\bin\Debug\Student_Information.exe
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\bin\Debug\Student_Information.pdb
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.Department_Info.resources
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.HomePage.resources
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.LogIn.resources
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.RegistrationPage.resources
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.Search_Student.resources
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.Semester_Info.resources
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.StudentInformation.resources
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.Properties.Resources.resources
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.csproj.GenerateResource.Cache
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.PicturePage.resources
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.frmMain.resources
+E:\LinkUp-Class\13-02-17(Student_Information)\Student_Information\Student_Information\obj\Debug\Student_Information.csprojResolveAssemblyReference.cache
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\bin\Debug\Student_Information.exe.config
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.exe
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.pdb
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\bin\Debug\Student_Information.exe
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\bin\Debug\Student_Information.pdb
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.Department_Info.resources
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.frmMain.resources
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.HomePage.resources
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.LogIn.resources
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.PicturePage.resources
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.RegistrationPage.resources
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.Search_Student.resources
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.Semester_Info.resources
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.StudentInformation.resources
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.Properties.Resources.resources
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.csproj.GenerateResource.Cache
+E:\Class Sources\SOJIB Work\Student_Information(18-2-17)\Student_Information\Student_Information\obj\Debug\Student_Information.csprojResolveAssemblyReference.cache
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\Student_Information.exe
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\Student_Information.exe.config
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.Department_Info.resources
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.frmMain.resources
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.HomePage.resources
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.LogIn.resources
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.RegistrationPage.resources
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.Search_Student.resources
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.Semester_Info.resources
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.Properties.Resources.resources
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.csproj.GenerateResource.Cache
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.exe
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.pdb
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\Student_Information.pdb
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\RdlCompile.cache
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\RdlCompile.compiled
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\rptStudentInfo.rdlc
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.StudentInformation.resources
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.csprojResolveAssemblyReference.cache
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.ReportViewPage.resources
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.frm_StudentProfile.resources
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\StudentProfileDataSet.Designer.cs
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\StudentProfileDataSet.xsc
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\StudentProfileDataSet.xsd
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\StudentProfileDataSet.xss
+E:\LinkUp-Class\18-2-17(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\rpt_StudentProfile.rdlc
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\Student_Information.exe.config
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.exe
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.pdb
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\rptStudentInfo.rdlc
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\rpt_StudentProfile.rdlc
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\StudentProfileDataSet.Designer.cs
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\StudentProfileDataSet.xsc
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\StudentProfileDataSet.xsd
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\StudentProfileDataSet.xss
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\Student_Information.exe
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\Student_Information.pdb
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.csprojResolveAssemblyReference.cache
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.Department_Info.resources
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.frmMain.resources
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.frm_StudentProfile.resources
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.HomePage.resources
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.LogIn.resources
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.RegistrationPage.resources
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.ReportViewPage.resources
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.Search_Student.resources
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.Semester_Info.resources
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.StudentInformation.resources
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.Properties.Resources.resources
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.csproj.GenerateResource.Cache
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\RdlCompile.cache
+D:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\RdlCompile.compiled
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\Student_Information.exe.config
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.exe
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.pdb
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.Department_Info.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.frmMain.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.frm_StudentProfile.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.HomePage.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.LogIn.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.RegistrationPage.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.ReportViewPage.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.Search_Student.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.Semester_Info.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.StudentInformation.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.Properties.Resources.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.csproj.GenerateResource.Cache
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\RdlCompile.cache
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\RdlCompile.compiled
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\rptStudentInfo.rdlc
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\rpt_StudentProfile.rdlc
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\StudentProfileDataSet.Designer.cs
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\StudentProfileDataSet.xsc
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\StudentProfileDataSet.xsd
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\StudentProfileDataSet.xss
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\Student_Information.exe
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\bin\Debug\Student_Information.pdb
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.Course.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.CourseRegistration.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.AccountSection.resources
+E:\Final(Student_Information)\Backup\Student_Information\Student_Information\obj\Debug\Student_Information.csprojResolveAssemblyReference.cache
